@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+
+    <string name="button">titulo para ejemplo</string>
+
+    <string name="textView">titulo para ejemplo</string>
+    <string name="correct_toast">correpto</string>
+    <string name="incorrect_toast">incorrepto</string>
+
+
+</resources>
